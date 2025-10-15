@@ -1,0 +1,226 @@
+{
+  "0": {
+    "objects": [
+      "tv",
+      "remote",
+      "potted plant",
+      "potted plant",
+      "potted plant"
+    ],
+    "count": 5
+  },
+  "56": {
+    "objects": [
+      "tv",
+      "remote",
+      "potted plant",
+      "potted plant",
+      "potted plant"
+    ],
+    "count": 5
+  },
+  "112": {
+    "objects": [
+      "tv",
+      "remote",
+      "potted plant",
+      "potted plant",
+      "potted plant"
+    ],
+    "count": 5
+  },
+  "168": {
+    "objects": [
+      "tv",
+      "remote",
+      "potted plant",
+      "potted plant",
+      "couch"
+    ],
+    "count": 5
+  },
+  "224": {
+    "objects": [
+      "potted plant",
+      "potted plant",
+      "couch",
+      "cell phone"
+    ],
+    "count": 4
+  },
+  "280": {
+    "objects": [
+      "potted plant",
+      "couch",
+      "cell phone",
+      "person",
+      "face",
+      "book"
+    ],
+    "count": 6
+  },
+  "336": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "392": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "448": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "504": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "560": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "616": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake"
+    ],
+    "count": 7
+  },
+  "672": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake",
+      "vase",
+      "potted plant"
+    ],
+    "count": 9
+  },
+  "728": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake",
+      "vase",
+      "potted plant"
+    ],
+    "count": 9
+  },
+  "784": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake",
+      "vase",
+      "potted plant"
+    ],
+    "count": 9
+  },
+  "840": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "book",
+      "cup",
+      "cake",
+      "vase",
+      "potted plant"
+    ],
+    "count": 9
+  },
+  "896": {
+    "objects": [
+      "\\tv",
+      "potted plant",
+      "potted plant",
+      "remote"
+    ],
+    "count": 4
+  },
+  "952": {
+    "objects": [
+      "person",
+      "face"
+    ],
+    "count": 2
+  },
+  "1008": {
+    "objects": [
+      "tv",
+      "potted plant"
+    ],
+    "count": 2
+  },
+  "1064": {
+    "objects": [
+      "couch",
+      "person",
+      "face",
+      "cell phone",
+      "potted plant",
+      "book",
+      "vase",
+      "cake"
+    ],
+    "count": 8
+  }
+}
